@@ -1,0 +1,5 @@
+dash
+git+https://github.com/elben10/dash-renderer
+git+https://github.com/elben10/dashmaterialui
+dash-html-components
+dash-core-components
